@@ -1,2 +1,9 @@
-# restaurant_management-system
-Simple Restaurant Management System built with Java Swing and NetBeans .
+
+# Restaurant Management System
+
+Simple restaurant ordering and billing system developed using Java and NetBeans.
+
+## Features
+- Select menu items
+- Calculate total bill
+- Simple graphical user interface
